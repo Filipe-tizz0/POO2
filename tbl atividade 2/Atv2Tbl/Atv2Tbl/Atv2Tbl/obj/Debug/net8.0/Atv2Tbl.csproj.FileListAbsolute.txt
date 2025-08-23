@@ -1,0 +1,14 @@
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\bin\Debug\net8.0\Atv2Tbl.exe
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\bin\Debug\net8.0\Atv2Tbl.deps.json
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\bin\Debug\net8.0\Atv2Tbl.runtimeconfig.json
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\bin\Debug\net8.0\Atv2Tbl.dll
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\bin\Debug\net8.0\Atv2Tbl.pdb
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\obj\Debug\net8.0\Atv2Tbl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\obj\Debug\net8.0\Atv2Tbl.AssemblyInfoInputs.cache
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\obj\Debug\net8.0\Atv2Tbl.AssemblyInfo.cs
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\obj\Debug\net8.0\Atv2Tbl.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\obj\Debug\net8.0\Atv2Tbl.dll
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\obj\Debug\net8.0\refint\Atv2Tbl.dll
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\obj\Debug\net8.0\Atv2Tbl.pdb
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\obj\Debug\net8.0\Atv2Tbl.genruntimeconfig.cache
+C:\Users\alunolab\source\repos\Atv2Tbl\Atv2Tbl\obj\Debug\net8.0\ref\Atv2Tbl.dll

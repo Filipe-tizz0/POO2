@@ -1,0 +1,10 @@
+   (2°)
+1 - Primeiro incremento:
+	Criar classe Produto com atributos (nome, preço);
+	Informar quais produto serão adicionados ao carrinho;
+
+2 - Segundo incremento: 
+	Criar classe Carrinho com atributos (preco_total, produto);
+	Implementar método de soma dos produtos;
+	Calcular soma total dos produtos;
+	Apresentar os produtos;

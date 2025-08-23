@@ -1,0 +1,27 @@
+   (1°)
+1 - Definição do problema: Cadastrar pedidos associados a clientes;
+
+2 - Análise: 
+	identificação de entidades: pedido e clientes;
+	relacionamento entre entidades: pedido deve conter um id de clientes;
+
+3 - Projeto: Criar um diagrama de classes de pedido (id do pedido, nome do produto, dados do cliente) 
+	e cliente(id do cliente, nome, email);
+
++----------------+                         +------------------------+
+|    Cliente     |------------------------>|         Pedido         |
++----------------+                         +------------------------+
+| - id_cliente   |                         | - id_pedido            |
+| - nome         |                         | - nome_pedido          |
+| - email        |                         | - cliente (Obj Cliente)|        |
++----------------+                         +------------------------+
+
+4 - Implementação: 
+	Criar uma classe Cliente e Pedido;
+	Usar métodos contrutores para armazenar os valores de cliente e pedido;
+5 - Testes:
+	inserir o nome, email e nome do usuário e apresentar na tela as informações do pedido e cliente;
+
+
+    (2°)
+1 - 
