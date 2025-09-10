@@ -1,0 +1,9 @@
+1° - T1 realiza duas consultas, mas a segunda consulta pode conter um saldo com 500 reais somados,
+o non-repetable acontece justamente quando outra transação vai alterar valores entre consultas.
+
+2° - A segunda consulta irá trazer um novo valor que foi inserido de valor 250, o que está acontecendo é um non-repeatable read.
+
+3° - a quantidade final será e 45, o T2 sobrescreveu o update realizado no T1, ou seja, um Lost Update.
+
+4° - Ambos os funcionários foram marcados como não disponíveis ao mesmo tempo, uma característica do Write Skew, onde uma regra
+de negócio é quebrada por duas transações que commitam ao mesmo tempo permitindo cenários de erro.
