@@ -1,0 +1,14 @@
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\bin\Debug\net8.0\ConsoleAppXML.exe
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\bin\Debug\net8.0\ConsoleAppXML.deps.json
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\bin\Debug\net8.0\ConsoleAppXML.runtimeconfig.json
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\bin\Debug\net8.0\ConsoleAppXML.dll
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\bin\Debug\net8.0\ConsoleAppXML.pdb
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\obj\Debug\net8.0\ConsoleAppXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\obj\Debug\net8.0\ConsoleAppXML.AssemblyInfoInputs.cache
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\obj\Debug\net8.0\ConsoleAppXML.AssemblyInfo.cs
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\obj\Debug\net8.0\ConsoleAppXML.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\obj\Debug\net8.0\ConsoleAppXML.dll
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\obj\Debug\net8.0\refint\ConsoleAppXML.dll
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\obj\Debug\net8.0\ConsoleAppXML.pdb
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\obj\Debug\net8.0\ConsoleAppXML.genruntimeconfig.cache
+C:\Users\alunolab\source\repos\ConsoleAppXML\ConsoleAppXML\obj\Debug\net8.0\ref\ConsoleAppXML.dll

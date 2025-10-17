@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppXML/1.0.0": {
+        "runtime": {
+          "ConsoleAppXML.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppXML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
